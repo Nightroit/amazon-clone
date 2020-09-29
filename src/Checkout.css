@@ -4,7 +4,10 @@
     background-color: white; 
     height: max-content; 
 }
-
+.checkout__left{
+    width: 50%; 
+    background:    #ddd; 
+}
 .checkout__ad {
     width: 100%; 
     margin-bottom: 10px; 
